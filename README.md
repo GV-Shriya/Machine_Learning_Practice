@@ -8,3 +8,9 @@ Index:
 3. Visualizing_Pokemon_DataSet
 4. Deep_Learning_with_ANN
 5. Performing_EDA_Univariate_Analysis
+
+Written in Python
+Source code files are in .ipynb format
+Explanation / Observations can be read from pdf or README.md 
+
+Thank You For Visiting
