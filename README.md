@@ -1,4 +1,5 @@
 # Machine_Learning_Practice
+
 This repository contains my Machine Learning Projects (Personal Projects for Practice)
 
 Index:
@@ -9,11 +10,10 @@ Index:
 4. Deep_Learning_with_ANN
 5. Performing_EDA_Univariate_Analysis
 
+=> Written in Python
 
-Written in Python
+=> Source code files are in .ipynb format
 
-Source code files are in .ipynb format
-
-Explanation / Observations can be read from pdf or README.md 
+=> Explanation / Observations can be read from pdf or README.md 
 
 Thank You For Visiting
