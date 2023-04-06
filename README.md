@@ -1,5 +1,5 @@
 # Machine_Learning_Practice
-This repository contains my Machine Learning Practice Projects
+This repository contains my Machine Learning Projects (Personal Projects for Practice)
 
 Index:
 
